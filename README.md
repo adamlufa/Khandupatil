@@ -1,2 +1,0 @@
-# Khandupatil
-Code
